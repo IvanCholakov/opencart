@@ -1,0 +1,15 @@
+---------- Date: 2015-07-21 15:01:09 ~ IP : 127.0.0.1 ----------
+REQUEST URI : /opencart2/
+MOD DETAILS:
+   modFile   : C:\wamp\www\opencart2\vqmod/xml/themeglobal_notification.xml
+   id        : ThemeGlobal Notification
+   version   : 2.0
+   vqmver    : 2.5.1
+   author    : ThemeGlobal
+VQModObject::parseMods - Could not resolve path for [catalog/language/russian/checkout/cart.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/russian/product/compare.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [catalog/language/russian/account/wishlist.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
